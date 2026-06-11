@@ -44,7 +44,7 @@ exports.AppModule = AppModule = __decorate([
                 {
                     name: 'default',
                     ttl: 60000,
-                    limit: 60,
+                    limit: 300,
                 },
             ]),
             tools_module_1.ToolsModule,
